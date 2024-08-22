@@ -10,3 +10,7 @@ S&amp;P market data dash. idk why but I've added some ARIMA and Baye's modelling
     We also compare the individual equity performance to the S&P fund overall to gauge performance
     I've also added some useful stickers for high level numerics :)) Enjoy 
 '''
+
+Required Packages:
+
+Stored in requirements.txt # I genuinely cba to write them down 
