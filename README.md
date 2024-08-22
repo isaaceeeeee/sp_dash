@@ -5,7 +5,7 @@ So, this dash uses yahoo finance S&P data for all listed companies on the S&P fu
 
 We then use ARIMA modelling to forecast the market price using the historical data and a set confidence level
     
-Autoregressive Integrated Moving Averages (ARIMA) rely solely on timeseries data to predict moving averages in pricing.
+!! Autoregressive Integrated Moving Averages (ARIMA) rely solely on timeseries data to predict moving averages in pricing !!
     
 We also compare the individual equity performance to the S&P fund overall to gauge performance
 
